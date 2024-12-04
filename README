@@ -1,0 +1,9 @@
+This repository contains code for the transit-length distribution in binary Markovian media. More specifically, it contains resources to support the following journal publication:
+
+XXXXXXXXXXXX
+
+The repository is organized into four directories:
+1) transit_dist contains C++, Python, and Matlab implementations of the function for calculating the transit-length density
+2) monte_carlo constains the C++ routine for verifying the transit-length density with a direct sampling approach
+3) porous contains all Matlab scripts needed to generate results for light transport through porous media
+4) stopping contains all Matlab scripts need to genreate results for charged particle stopping in porous media
